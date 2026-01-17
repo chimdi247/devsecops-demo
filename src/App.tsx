@@ -123,13 +123,13 @@ function App() {
                 className="flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 text-white py-2 px-4 rounded-lg transition-colors"
               >
                 <RefreshCw className="h-4 w-4" />
-                New Game on
+                New Game
               </button>
               <button 
                 onClick={resetStats}
                 className="bg-gray-200 hover:bg-gray-300 text-gray-800 py-2 px-4 rounded-lg transition-colors"
               >
-                Reset All
+                Reset me
               </button>
             </div>
           </div>
